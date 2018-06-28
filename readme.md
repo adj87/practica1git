@@ -1,5 +1,5 @@
 
-#Readme.md					
+# Readme.md					
 ----------
 **¿Qué comando utilizaste en el paso 11? ¿Por qué?** 
  git reset --hard HEAD~1 porque para perder los cambios en el working copy hay que poner --hard
